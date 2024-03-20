@@ -1,0 +1,1 @@
+Run `docker-compose up` to start api service and evalute
